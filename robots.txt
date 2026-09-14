@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://heba123-beeb.github.io/ert/sitemap.xml
